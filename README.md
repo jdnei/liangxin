@@ -56,5 +56,10 @@
 ### 📞 联系与支持
 - **Telegram 群组:** [@liangxinyun_chat](https://t.me/liangxinyun_chat)
 - **注意:** 特殊商品，购买前请仔细阅读官网说明。
-## 节点信息
-待添加
+## 📊 性能实测与分析  
+#### 1.晚高峰测速表现  
+![image](https://github.com/jdnei/liangxin/blob/main/img/photo_2026-05-13_14-49-06.jpg?raw=ture)  
+#### 2.流媒体解锁报告  
+![image](https://github.com/jdnei/liangxin/blob/main/img/MiaoKo-%20.xyz-8008-test.png?raw=ture)    
+#### 3.落地入口分析  
+![image](https://github.com/jdnei/liangxin/blob/main/img/MiaoKo-%20.xyz-7910-analyze.png?raw=ture)
