@@ -1,4 +1,4 @@
-# LiangXin 良心云机场官方地址(2026年6月15日更新)
+# LiangXin 良心云机场官方地址(2026年6月16日更新)
 官方最新地址：[良心云.com](https://xn--9kqz23b19z.com/#/register?code=vcnG7fqh)
 ## Telegram VPN 机场福利社 #AD
 [机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)  
