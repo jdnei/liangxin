@@ -1,9 +1,6 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
-[Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
-
 # LiangXin 良心云机场官方地址(2026年6月24日更新)
 官方最新地址：[良心云.com](https://xn--9kqz23b19z.com/#/register?code=vcnG7fqh)
 ## Telegram VPN 机场福利社 #AD
