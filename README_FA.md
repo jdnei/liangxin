@@ -1,5 +1,5 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
-# آدرس رسمی LiangXin Cloud Airport (به‌روزرسانی‌شده در 24 ژوئن 2026)
+# آدرس رسمی LiangXin Cloud Airport (به‌روزرسانی 25 ژوئن 2026)
 
 آخرین آدرس رسمی: [良心云.com](https://xn--9kqz23b19z.com/#/register?code=vcnG7fqh)
 
