@@ -1,5 +1,5 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
-# Официальный адрес LiangXin Cloud Airport (обновлено 25 июня 2026)
+# Официальный адрес LiangXin Cloud Airport (обновлено 26 июня 2026)
 
 Официальный актуальный адрес: [良心云.com](https://xn--9kqz23b19z.com/#/register?code=vcnG7fqh)
 
