@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# LiangXin 良心云机场官方地址(2026年7月26日更新)
+# LiangXin 良心云机场官方地址(2026年7月27日更新)
 LiangXin 良心云机场官网地址</br>
 官方最新地址：[良心云.com](https://to.iix.im/lx01)
 
