@@ -1,15 +1,19 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
-# LiangXin Cloud Airport Official Address (Updated August 5, 2026)
 
-Official Latest Address: [良心云.com](https://xn--9kqz23b19z.com/#/register?code=vcnG7fqh)
+# LiangXin Cloud VPN Official Address (Updated August 5, 2026)
 
-## Telegram VPN Airport Benefits Group #AD
+LiangXin Cloud VPN Official Website Address</br>
+Latest Official Address: [良心云.com](https://to.iix.im/lx01)
 
-[Airport Lottery Group](https://331024.de/archives/choujiang)｜[Airport Chat Group](https://331024.de/archives/choujiang)｜[Airport Trial Group](https://331024.de/archives/choujiang)</br>
+Recommended VPN Services and Node Sharing for 2026: https://github.com/jdnei/JiChangTuiJian</br>
+
+## Telegram VPN Deals Community #AD
+
+[VPN Giveaway Group](https://331024.de/archives/choujiang)｜[VPN Chat Group](https://331024.de/archives/choujiang)｜[VPN Trial Group](https://331024.de/archives/choujiang)</br>
 
 https://331024.de/archives/choujiang
 
-## Official Coupon Code / Discount Code
+## Official Promo Code/Discount Code
 
 ```bash
 LXY
@@ -17,41 +21,41 @@ LXY
 
 ## Introduction
 
-“LiangXin Cloud” is an airport service provider with a strong reputation in the community. It is known for its high cost-effectiveness and stability. It mainly targets users who care about network quality, especially those who need smooth 4K/8K video streaming and large-volume downloads.
+“Liangxin Cloud” is a VPN service provider with a strong reputation among users, known for its excellent value for money and stability. It is mainly aimed at users who care about network quality, especially those who need smooth 4K/8K video streaming and large-volume downloads.
 
 ## Advantages
 
-All-node relay / dedicated lines: Basically, no direct nodes are provided. All nodes use tunnel relay or IPLC/IEPL private dedicated lines, greatly reducing packet loss and latency, and performing very steadily during sensitive periods.</br>
-Strong streaming unlock capability: Perfectly unlocks popular platforms such as Netflix, Disney+, YouTube Premium, Hulu, HBO, and ChatGPT, with support for multi-region unlocking.</br>
-Ultra-fast bandwidth guarantee: Nodes usually have no speed limits, and load balancing is well optimized. Even during evening peak hours, 4K videos can start instantly.</br>
-Wide compatibility: Supports mainstream clients and provides one-click subscription import.
+Full-Node Relay/Dedicated Lines: It generally does not provide direct-connect nodes. Most nodes use tunnel relay or IPLC/IEPL private dedicated lines, greatly reducing packet loss and latency while maintaining strong stability during sensitive periods.</br>
+Strong Streaming Unlock Capability: Supports unlocking popular platforms including Netflix, Disney+, YouTube Premium, Hulu, HBO, and ChatGPT, with multi-region unlocking support.</br>
+High-Speed Bandwidth Guarantee: Nodes generally have no speed limits, and load balancing is well optimized. Even during evening peak hours, 4K videos can start almost instantly.</br>
+Wide Compatibility: Supports mainstream clients and provides one-click subscription functionality.
 
 ## Plans
 
-### ☁️ LiangXin Cloud Plan Details
+### ☁️ Liangxin Cloud Plan Details
 
-> **Ultra-fast · Stable · High Cost-Effectiveness** > 🚀 Ultra-low latency across four major networks | 🎬 Full 8K streaming unlock | 🔐 TLS1.3 military-grade encryption
+> **High Speed · Stable · Cost-Effective** > 🚀 Ultra-Low Latency Across Four Networks | 🎬 Full 8K Streaming Unlock | 🔐 TLS1.3 Military-Grade Encryption
 
 ---
 
 ### 📅 Recurring Subscription Plans (Traffic Resets Monthly)
 
-*Suitable for frequent use and higher bandwidth guarantees.*
+*Suitable for frequent use with stronger bandwidth guarantees.*
 
-| Plan Name                     | Monthly Traffic | Price/Month | Peak Bandwidth | Device Limit | Features                    |
-| :---------------------------- | :-------------- | :---------- | :------------- | :----------- | :-------------------------- |
-| **100G Traffic**              | 100G            | `￥2.00`     | 1Gbps          | 8 devices    | Best entry-level choice     |
-| **500G Traffic**              | 500G            | `￥4.00`     | 2Gbps          | 10 devices   | Best value                  |
-| **1000G Traffic (Ace)**       | 1000G           | **`￥6.00`** | 3Gbps          | 20 devices   | **Official recommendation** |
-| **5000G Traffic**             | 5000G           | `￥20.00`    | 4Gbps          | 30 devices   | For video enthusiasts       |
-| **10000G Traffic (Team)**     | 10000G          | `￥30.00`    | 5Gbps          | 50 devices   | Team / studio               |
-| **100000G Traffic (Premium)** | 100000G         | `￥260.00`   | 10Gbps         | 100 devices  | Enterprise / agents         |
+| Plan Name                     | Monthly Traffic | Price/Month | Peak Bandwidth | Device Limit | Features                   |
+| :---------------------------- | :-------------- | :---------- | :------------- | :----------- | :------------------------- |
+| **100G Traffic**              | 100G            | `￥2.00`     | 1Gbps          | 8 devices    | Best entry-level choice    |
+| **500G Traffic**              | 500G            | `￥4.00`     | 2Gbps          | 10 devices   | Best value for money       |
+| **1000G Traffic (Ace)**       | 1000G           | **`￥6.00`** | 3Gbps          | 20 devices   | **Officially Recommended** |
+| **5000G Traffic**             | 5000G           | `￥20.00`    | 4Gbps          | 30 devices   | For video enthusiasts      |
+| **10000G Traffic (Team)**     | 10000G          | `￥30.00`    | 5Gbps          | 50 devices   | Team/Studio                |
+| **100000G Traffic (Premium)** | 100000G         | `￥260.00`   | 10Gbps         | 100 devices  | Enterprise/Reseller        |
 
 ---
 
 ### 💎 One-Time Traffic Packages (Permanent Validity)
 
-*No expiration date. Valid until the traffic is used up. Suitable as a backup line.*
+*No expiration date. Valid until all traffic is used, suitable as a backup connection.*
 
 | Plan Name                      | Total Traffic | Price     | Peak Bandwidth | Device Limit |
 | :----------------------------- | :------------ | :-------- | :------------- | :----------- |
@@ -66,20 +70,20 @@ Wide compatibility: Supports mainstream clients and provides one-click subscript
 
 ### 🛠 Service Features
 
-* **[x] Global coverage:** All nodes use a unified **1.0 multiplier**, with no hidden high-multiplier lines.</br>
-* **[x] Ultra-fast experience:** Self-developed high-performance backend with strong single-thread performance. Smooth 8K 60fps playback even during evening peak hours.</br>
-* **[x] Region-friendly:** Supports users in **Xinjiang, Henan, and Fujian**, with stress-free connections.</br>
-* **[x] Privacy and security:** No node logs are stored, and there are no restrictions on usage behavior.</br>
-* **[x] Wide compatibility:** Supports mainstream clients such as Clash, Shadowrocket, Stash, Quantumult X, and more.</br>
+* **[x] Global Coverage:** All nodes use a unified **1.0x multiplier**, with no hidden high-multiplier routes.</br>
+* **[x] High-Speed Experience:** Self-developed high-performance backend with strong single-thread performance; smooth 8K 60fps streaming even during evening peak hours.</br>
+* **[x] Region-Friendly:** Supports users in **Xinjiang, Henan, and Fujian**, with reliable connectivity.</br>
+* **[x] Privacy & Security:** No node logs are stored, with no restrictions on usage behavior.</br>
+* **[x] Broad Compatibility:** Supports mainstream clients including Clash, Shadowrocket, Stash, Quantumult X, and more.</br>
 
-### 📞 Contact and Support
+### 📞 Contact & Support
 
 * **Telegram Group:** [@liangxinyun_chat](https://t.me/liangxinyun_chat)
-* **Note:** This is a special product. Please carefully read the official website instructions before purchasing.
+* **Note:** This is a special type of product. Please carefully read the official website instructions before purchasing.
 
-## 📊 Performance Test and Analysis
+## 📊 Performance Tests and Analysis
 
-#### 1. Evening Peak Speed Test Performance
+#### 1. Peak-Hour Speed Test Performance
 
 ![image](https://github.com/jdnei/liangxin/blob/main/img/photo_2026-05-13_14-49-06.jpg?raw=ture)
 
@@ -87,57 +91,57 @@ Wide compatibility: Supports mainstream clients and provides one-click subscript
 
 ![image](https://github.com/jdnei/liangxin/blob/main/img/MiaoKo-%20.xyz-8008-test.png?raw=ture)
 
-#### 3. Landing Entry Analysis
+#### 3. Exit Node and Entry Route Analysis
 
 ![image](https://github.com/jdnei/liangxin/blob/main/img/MiaoKo-%20.xyz-7910-analyze.png?raw=ture)
 
 #### 4. Server Status Summary
 
-| Multiplier | Protocol | Node                             | Line      | Tag       |
+| Multiplier | Protocol | Node                             | Route     | Tag       |
 | ---------- | -------- | -------------------------------- | --------- | --------- |
-| x0.5       | vless    | 🇯🇵 Japan High-Speed 01         | CTCU      | 0.5x      |
-| x0.5       | vless    | 🇯🇵 Japan High-Speed 02         | CTCU      | 0.5x      |
-| x1         | vless    | 🇭🇰 Hong Kong High-Speed 02     | BGP       | CMCU      |
-| x1         | vless    | 🇭🇰 Hong Kong High-Speed 03     | BGP       | CMCU      |
-| x1         | vless    | 🇭🇰 Hong Kong High-Speed 04     | BGP       | CMCU      |
-| x1         | vless    | 🇭🇰 Hong Kong High-Speed 05     | BGP       | CMCU      |
-| x1         | vless    | 🇭🇰 Hong Kong High-Speed 06     | BGP       | CMCU      |
-| x1         | vless    | 🇸🇬 Singapore High-Speed 01     | BGP       | CTCUCM    |
-| x1         | vless    | 🇸🇬 Singapore High-Speed 02     | BGP       | CTCUCM    |
-| x1         | vless    | 🇸🇬 Singapore High-Speed 03     | BGP       | CTCUCM    |
-| x1         | vless    | 🇸🇬 Singapore High-Speed 04     | BGP       | CTCUCM    |
-| x1         | vless    | 🇸🇬 Singapore High-Speed 05     | BGP       | CTCUCM    |
-| x1         | vless    | 🇸🇬 Singapore High-Speed 06     | BGP       | CTCU      |
-| x1         | vless    | 🇸🇬 Singapore High-Speed 07     | BGP       | CTCU      |
-| x1         | vless    | 🇸🇬 Singapore High-Speed 08     | BGP       | CTCU      |
-| x1         | vless    | 🇯🇵 Japan High-Speed 01         | BGP       | CUCM      |
-| x1         | vless    | 🇯🇵 Japan High-Speed 02         | BGP       | CUCM      |
-| x1         | vless    | 🇯🇵 Japan High-Speed 03         | BGP       | CUCM      |
-| x1         | vless    | 🇯🇵 Japan High-Speed 04         | BGP       | CUCM      |
-| x1         | vless    | 🇯🇵 Japan High-Speed 05         | BGP       | CUCM      |
-| x1         | vless    | 🇯🇵 Japan High-Speed 06         | BGP       | CTCU      |
-| x1         | vless    | 🇯🇵 Japan High-Speed 07         | BGP       | CTCU      |
-| x1         | vless    | 🇯🇵 Japan High-Speed 08         | BGP       | CTCU      |
-| x1         | vless    | 🇯🇵 Japan High-Speed 09         | BGP       | CTCU      |
-| x1         | vless    | 🇺🇸 United States High-Speed 01 | CTCU      |           |
-| x1         | vless    | 🇺🇸 United States High-Speed 02 | CTCU      |           |
-| x0.1       | vless    | 🇬🇧 London, United Kingdom      | CTCU      | 0.1x      |
-| x1         | vless    | 🇰🇷 Korea High-Speed 01         | BGP       | Streaming |
-| x1         | vless    | 🇨🇳 Taiwan High-Speed 01        | BGP       | Streaming |
-| x1         | hysteria | 🇭🇰 Hong Kong Dedicated Line 01 | BGP       | Streaming |
-| x1         | hysteria | 🇭🇰 Hong Kong Dedicated Line 02 | BGP       | Streaming |
-| x1         | hysteria | 🇭🇰 Hong Kong Dedicated Line 03 | BGP       | Streaming |
-| x1         | hysteria | 🇭🇰 Hong Kong Dedicated Line 04 | BGP       | Streaming |
-| x1         | hysteria | 🇸🇬 Singapore Dedicated Line 01 | BGP       | Streaming |
-| x1         | hysteria | 🇸🇬 Singapore Dedicated Line 02 | BGP       | Streaming |
-| x1         | hysteria | 🇸🇬 Singapore Dedicated Line 03 | BGP       | Streaming |
-| x1         | hysteria | 🇸🇬 Singapore Dedicated Line 04 | BGP       | Streaming |
-| x1         | hysteria | 🇯🇵 Japan Dedicated Line 01     | BGP       | Streaming |
-| x1         | hysteria | 🇯🇵 Japan Dedicated Line 02     | BGP       | Streaming |
-| x1         | hysteria | 🇯🇵 Japan Dedicated Line 03     | BGP       | Streaming |
-| x1         | hysteria | 🇯🇵 Japan Dedicated Line 04     | BGP       | Streaming |
-| x1         | hysteria | 🇰🇷 Korea Dedicated Line 01     | BGP       | Streaming |
-| x1         | hysteria | 🇨🇳 Taiwan Dedicated Line 01    | BGP       | Streaming |
-| x0.1       | hysteria | 🇬🇧 London, United Kingdom 01   | Streaming | 0.1x      |
-| x0.1       | hysteria | 🇬🇧 London, United Kingdom 02   | Streaming | 0.1x      |
-| x1         | hysteria | 🇺🇸 United States 01            | Streaming |           |
+| x0.5       | vless    | 🇯🇵Japan High-Speed01           | CTCU      | 0.5x      |
+| x0.5       | vless    | 🇯🇵Japan High-Speed02           | CTCU      | 0.5x      |
+| x1         | vless    | 🇭🇰Hong Kong High-Speed02       | BGP       | CMCU      |
+| x1         | vless    | 🇭🇰Hong Kong High-Speed03       | BGP       | CMCU      |
+| x1         | vless    | 🇭🇰Hong Kong High-Speed04       | BGP       | CMCU      |
+| x1         | vless    | 🇭🇰Hong Kong High-Speed05       | BGP       | CMCU      |
+| x1         | vless    | 🇭🇰Hong Kong High-Speed06       | BGP       | CMCU      |
+| x1         | vless    | 🇸🇬Singapore High-Speed01       | BGP       | CTCUCM    |
+| x1         | vless    | 🇸🇬Singapore High-Speed02       | BGP       | CTCUCM    |
+| x1         | vless    | 🇸🇬Singapore High-Speed03       | BGP       | CTCUCM    |
+| x1         | vless    | 🇸🇬Singapore High-Speed04       | BGP       | CTCUCM    |
+| x1         | vless    | 🇸🇬Singapore High-Speed05       | BGP       | CTCUCM    |
+| x1         | vless    | 🇸🇬Singapore High-Speed06       | BGP       | CTCU      |
+| x1         | vless    | 🇸🇬Singapore High-Speed07       | BGP       | CTCU      |
+| x1         | vless    | 🇸🇬Singapore High-Speed08       | BGP       | CTCU      |
+| x1         | vless    | 🇯🇵Japan High-Speed01           | BGP       | CUCM      |
+| x1         | vless    | 🇯🇵Japan High-Speed02           | BGP       | CUCM      |
+| x1         | vless    | 🇯🇵Japan High-Speed03           | BGP       | CUCM      |
+| x1         | vless    | 🇯🇵Japan High-Speed04           | BGP       | CUCM      |
+| x1         | vless    | 🇯🇵Japan High-Speed05           | BGP       | CUCM      |
+| x1         | vless    | 🇯🇵Japan High-Speed06           | BGP       | CTCU      |
+| x1         | vless    | 🇯🇵Japan High-Speed07           | BGP       | CTCU      |
+| x1         | vless    | 🇯🇵Japan High-Speed08           | BGP       | CTCU      |
+| x1         | vless    | 🇯🇵Japan High-Speed09           | BGP       | CTCU      |
+| x1         | vless    | 🇺🇸United States High-Speed01   | CTCU      |           |
+| x1         | vless    | 🇺🇸United States High-Speed02   | CTCU      |           |
+| x0.1       | vless    | 🇬🇧United Kingdom London        | CTCU      | 0.1x      |
+| x1         | vless    | 🇰🇷South Korea High-Speed01     | BGP       | Streaming |
+| x1         | vless    | 🇨🇳Taiwan High-Speed01          | BGP       | Streaming |
+| x1         | hysteria | 🇭🇰Hong Kong Dedicated Line01   | BGP       | Streaming |
+| x1         | hysteria | 🇭🇰Hong Kong Dedicated Line02   | BGP       | Streaming |
+| x1         | hysteria | 🇭🇰Hong Kong Dedicated Line03   | BGP       | Streaming |
+| x1         | hysteria | 🇭🇰Hong Kong Dedicated Line04   | BGP       | Streaming |
+| x1         | hysteria | 🇸🇬Singapore Dedicated Line01   | BGP       | Streaming |
+| x1         | hysteria | 🇸🇬Singapore Dedicated Line02   | BGP       | Streaming |
+| x1         | hysteria | 🇸🇬Singapore Dedicated Line03   | BGP       | Streaming |
+| x1         | hysteria | 🇸🇬Singapore Dedicated Line04   | BGP       | Streaming |
+| x1         | hysteria | 🇯🇵Japan Dedicated Line01       | BGP       | Streaming |
+| x1         | hysteria | 🇯🇵Japan Dedicated Line02       | BGP       | Streaming |
+| x1         | hysteria | 🇯🇵Japan Dedicated Line03       | BGP       | Streaming |
+| x1         | hysteria | 🇯🇵Japan Dedicated Line04       | BGP       | Streaming |
+| x1         | hysteria | 🇰🇷South Korea Dedicated Line01 | BGP       | Streaming |
+| x1         | hysteria | 🇨🇳Taiwan Dedicated Line01      | BGP       | Streaming |
+| x0.1       | hysteria | 🇬🇧United Kingdom London01      | Streaming | 0.1x      |
+| x0.1       | hysteria | 🇬🇧United Kingdom London02      | Streaming | 0.1x      |
+| x1         | hysteria | 🇺🇸United States01              | Streaming |           |
