@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# آدرس رسمی LiangXin Cloud VPN (به‌روزرسانی 10 اوت 2026)
+# آدرس رسمی LiangXin Cloud VPN (به‌روزرسانی 11 اوت 2026)
 
 آدرس وب‌سایت رسمی LiangXin Cloud VPN</br>
 جدیدترین آدرس رسمی: [良心云.com](https://to.iix.im/lx01)
