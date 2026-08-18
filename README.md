@@ -11,8 +11,9 @@ LiangXin 良心云机场官网地址</br>
 
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 ## 官方优惠码/打折码
+`全场75折:8月18日～8月22日`
 ```bash
-LXY
+甜蜜七夕
 ```
 ## 简介
 “良心云”（Liangxin Cloud）是一家在圈内口碑颇佳的机场服务商，以其高性价比和稳定性著称。它主要面向追求网络质量、尤其是需要流畅观看 4K/8K 视频及进行大流量下载的用户。
