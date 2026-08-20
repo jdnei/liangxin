@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# LiangXin Cloud VPN Official Address (Updated August 19, 2026)
+# LiangXin Cloud VPN Official Address (Updated August 20, 2026)
 
 LiangXin Cloud VPN Official Website Address</br>
 Latest Official Address: [良心云.com](https://to.iix.im/lx01)
